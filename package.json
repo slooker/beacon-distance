@@ -1,0 +1,29 @@
+{
+  "name": "beacon-distance",
+  "version": "1.0.0",
+  "description": "Gimbal implementation using noble",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shawn Looker",
+  "license": "ISC",
+  "dependencies": {
+    "advlib": "0.0.10",
+    "bleacon": "^0.4.0",
+    "noble": "^1.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slooker/beacon-distance.git"
+  },
+  "keywords": [
+    "Beacon",
+    "Distance"
+  ],
+  "bugs": {
+    "url": "https://github.com/slooker/beacon-distance/issues"
+  },
+  "homepage": "https://github.com/slooker/beacon-distance#readme"
+}
